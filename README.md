@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **superbar13/superbar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about me
 - 📫 How to reach me: Discord : Superbar13#8446
 - ⚡ Fun fact: J'aime la pizza
--->
