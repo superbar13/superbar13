@@ -1,8 +1,6 @@
-### Hi there 👋
-
-**superbar13/superbar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hey !👋
+ 
+**superbar13/superbar13** is a ✨ _special_ ✨ repository because its `README.md` (this file(biensur)) appears on your GitHub profile. Wow incroyable.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superbar13&label=Profile%20views&color=0e75b6&style=flat" alt="superbar13" /> </p>
 - 🔭 I’m currently working on OmegaBot
@@ -12,7 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about me
 - 📫 How to reach me: Discord : Superbar13#8446
 - ⚡ Fun fact: J'aime la pizza
-
 
 <h3 align="left">Reseaux Sociaux :</h3>
 <a href="https://twitter.com/superbar13off" target="blank"><img src="https://img.shields.io/twitter/follow/superbar13off?logo=twitter&style=for-the-badge" alt="superbar13"></a> 
