@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Reseaux Sociaux :</h3>
 <p align="left">
-<a href="https://twitter.com/superbar13off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="superbar13" height="30" width="40" /></a> <p align="left"> <a href="https://twitter.com/superbar13off" target="blank"><img src="https://img.shields.io/twitter/follow/superbar13off?logo=twitter&style=for-the-badge" alt="superbar13" /></a> </p>
-
-   <a href="https://instagram.com/superbar13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superbar13" align="middle" height="30" width="40"></a> 
-    <a href="https://www.youtube.com/c/superbar13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="superbar13" align="middle" height="30" width="40"></a> 
-    <a href="https://discord.gg/https://discords.com/bio/p/superbar13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discords.com/bio/p/superbar13" align="middle" height="30" width="40"></a>
+<a href="https://twitter.com/superbar13off" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="superbar13" height="30" width="40" /></a> <p align="left"> 
+<a href="https://twitter.com/superbar13off" target="blank"><img src="https://img.shields.io/twitter/follow/superbar13off?logo=twitter&style=for-the-badge" alt="superbar13"></a> 
+<a href="https://instagram.com/superbar13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="superbar13" align="middle" height="30" width="40"></a> 
+<a href="https://www.youtube.com/c/superbar13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="superbar13" align="middle" height="30" width="40"></a> 
+<a href="https://discord.gg/https://discords.com/bio/p/superbar13" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discords.com/bio/p/superbar13" align="middle" height="30" width="40"></a>
+</p>
 
 <h3 align="left">Languages de Prog. :</h3>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" width="40"> </a> 
