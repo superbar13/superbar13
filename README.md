@@ -1,8 +1,8 @@
 ### Hey !👋
  
- <h1 align="center">COUCOU c'est SUPERBAR13</h1>
+ <h1 align="center">Hey c'est Superbar13 / Hey it's Superbar13</h1>
  
-**superbar13/superbar13** is a ✨ _special_ ✨ repository because its `README.md` (this file(biensur)) appears on your GitHub profile. Wow incroyable.
+Wow
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superbar13&label=Profile%20views&color=0e75b6&style=flat" alt="superbar13" /> </p>
 
