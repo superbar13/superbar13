@@ -29,5 +29,5 @@ Wow
 
 <h3 align="left">Quelques Widgets / Some Widgets :</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=superbar13&show_icons=true&locale=en&layout=compact" alt="superbar13" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superbar13&show_icons=true&locale=en" alt="superbar13" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=superbar13&show_icons=true&locale=en" alt="superbar13" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superbar13&" alt="superbar13" /></p>
