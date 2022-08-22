@@ -14,7 +14,6 @@ If you are from the github team, i would like to test copilot, many of my friend
 - 💬 Ask me about me Espace, because i think you would like Espace !
 - 🎮 I like playing Mincraft, this is my favorite video games because of many possibilities !
 - 📫 How to reach me: Discord : Superbar13#8446, Twitter: superbar13off, instagram: superbar13 and other platform in the bottom.
-- ⚡ Fun fact: I think my profile say i want copilot.... i think.
 
 <h3 align="left">Reseaux Sociaux / Socials Newtwork :</h3>
 <a href="https://twitter.com/superbar13off" target="blank"><img src="https://img.shields.io/twitter/follow/superbar13off?logo=twitter&style=for-the-badge" alt="superbar13"></a> 
