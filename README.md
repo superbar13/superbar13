@@ -3,7 +3,6 @@
  <h1 align="center">Hey c'est Superbar13 / Hey it's Superbar13</h1>
  
 Yeah Hello and welcome to my profile, i am superbar13 and i want to be programmer in my life, i only do little things for the moment but one day i'll be programmer !
-If you are from the github team, i would like to test copilot, many of my friends already have it and yeah it's disturbing and frustrating... you know it by my profile...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superbar13&label=Profile%20views&color=0e75b6&style=flat" alt="superbar13" /> </p>
 
