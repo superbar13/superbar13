@@ -14,7 +14,7 @@
 <h3 align="left">Social</h3
 <p align="left"> <a href="https://twitter.com/superbar13off" target="blank"><img src="https://img.shields.io/twitter/follow/superbar13off?logo=twitter&style=for-the-badge" alt="superbar13off" /></a> </p>
 <p align="left">
-<a href="https://twitter.com/superbar13off" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Logo_of_Twitter%2C_Inc..svg" alt="superbar13" width="40" /></a>
+<a href="https://twitter.com/superbar13off" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="superbar13" width="40" /></a>
 <a href="https://instagram.com/superbar13" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="superbar13" align="middle" width="40"></a> 
 <a href="https://www.youtube.com/c/superbar13" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="superbar13" align="middle" width="40"></a> 
 <a href="https://discord.gg/PvznDyg" target="blank"><img src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="https://discord.gg/PvznDyg" align="middle" width="40"></a>
