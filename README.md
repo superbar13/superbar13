@@ -12,8 +12,7 @@
 - ⚡ Fun fact **I like pizza, and Minecraft !**
 
 <h3 align="left">Social</h3
-<p align="left"> <a href="https://x.com/superbar13off" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="40"/></a> </p>
-<p align="left">
+<a href="https://x.com/superbar13off" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="40"/></a>
 <a href="https://twitter.com/superbar13off" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="40"/></a>
 <a href="https://instagram.com/superbar13" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40"></a> 
 <a href="https://www.youtube.com/c/superbar13" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="40"></a> 
