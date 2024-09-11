@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on [OmegaBot](https://github.com/superbar13/OmegaBot) and Espace !
 - 🌱 I’m currently learning **Discord.js 14** and want to learn Flutter, and on the to do list is **Flutter Java, Python, C, C#, C++** !
 - 🎈 I’m looking to collaborate on [OmegaBot](https://github.com/superbar13/OmegaBot) !
-- 💬 Ask me about **Javascript**, I like Javascript !
+- 💬 Ask me about **JavaScript**, I like Javascript !
 - 📄 My website is [https://omegagroup.fr/](https://omegagroup.fr/)
-- 📫 How to reach me : Discord -> **superbar13#8446**
+- 📫 How to reach me : Discord -> **superbar13**
 - ⚡ Fun fact **I like pizza, and Minecraft !**
 
 <h3 align="left">Languages, Tools</h3>
