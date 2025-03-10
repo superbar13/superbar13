@@ -8,6 +8,7 @@
 - 🎈 I’m looking to collaborate on [OmegaBot](https://github.com/superbar13/OmegaBot) !
 - 💬 Ask me about **JavaScript**, I like Javascript !
 - 📄 My website is [https://omegagroup.fr/](https://omegagroup.fr/)
+- 🌐 My personnal website is [https://theo.omegagroup.fr/](https://theo.omegagroup.fr/)
 - 📫 How to reach me : Discord -> **superbar13**
 - ⚡ Fun fact **I like pizza, and Minecraft !**
 
