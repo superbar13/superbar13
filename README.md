@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm superbar13</h1>
-<h3 align="center">Want to become programmer or developper, like Javascript, creating a bot and a secret project called Espace !</h3>
+<h1 align="center">Hi 👋, I'm Théo / superbar13</h1>
+<h3 align="center">Becoming developper, like Javascript, creating a bot and a project called Espace which is a social network !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superbar13&label=Profile%20views&color=007bff&style=flat" alt="superbar13" /> </p>
 
