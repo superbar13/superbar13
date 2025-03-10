@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Théo / superbar13</h1>
-<h3 align="center">Developper, I like Javascript, creating a project called Espace which is a social network !</h3>
+<h3 align="center">Developper, I like JavaScript, creating a project called Espace which is a social network !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superbar13&label=Profile%20views&color=007bff&style=flat" alt="superbar13" /> </p>
 
